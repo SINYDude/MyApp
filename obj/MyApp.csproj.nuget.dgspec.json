@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My_Repo\\StartGui\\MyApp\\MyApp.csproj": {}
+    "D:\\Projects\\My_Dash\\MyApp\\MyApp.csproj": {}
   },
   "projects": {
-    "D:\\My_Repo\\StartGui\\MyApp\\MyApp.csproj": {
+    "D:\\Projects\\My_Dash\\MyApp\\MyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My_Repo\\StartGui\\MyApp\\MyApp.csproj",
+        "projectUniqueName": "D:\\Projects\\My_Dash\\MyApp\\MyApp.csproj",
         "projectName": "MyApp",
-        "projectPath": "D:\\My_Repo\\StartGui\\MyApp\\MyApp.csproj",
-        "packagesPath": "C:\\Users\\lpren\\.nuget\\packages\\",
-        "outputPath": "D:\\My_Repo\\StartGui\\MyApp\\obj\\",
+        "projectPath": "D:\\Projects\\My_Dash\\MyApp\\MyApp.csproj",
+        "packagesPath": "D:\\NuGetPackages",
+        "outputPath": "D:\\Projects\\My_Dash\\MyApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\lpren\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -76,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

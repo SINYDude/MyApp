@@ -1,17 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "72E0GoqNdYg=",
+  "dgSpecHash": "bbG7zKarvIU=",
   "success": true,
-  "projectFilePath": "D:\\My_Repo\\StartGui\\MyApp\\MyApp.csproj",
+  "projectFilePath": "D:\\Projects\\My_Dash\\MyApp\\MyApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\lpren\\.nuget\\packages\\nstack.core\\1.1.1\\nstack.core.1.1.1.nupkg.sha512",
-    "C:\\Users\\lpren\\.nuget\\packages\\system.codedom\\9.0.4\\system.codedom.9.0.4.nupkg.sha512",
-    "C:\\Users\\lpren\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.4\\system.configuration.configurationmanager.9.0.4.nupkg.sha512",
-    "C:\\Users\\lpren\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.4\\system.diagnostics.eventlog.9.0.4.nupkg.sha512",
-    "C:\\Users\\lpren\\.nuget\\packages\\system.diagnostics.performancecounter\\9.0.4\\system.diagnostics.performancecounter.9.0.4.nupkg.sha512",
-    "C:\\Users\\lpren\\.nuget\\packages\\system.management\\9.0.4\\system.management.9.0.4.nupkg.sha512",
-    "C:\\Users\\lpren\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.4\\system.security.cryptography.protecteddata.9.0.4.nupkg.sha512",
-    "C:\\Users\\lpren\\.nuget\\packages\\terminal.gui\\1.19.0\\terminal.gui.1.19.0.nupkg.sha512"
+    "D:\\NuGetPackages\\nstack.core\\1.1.1\\nstack.core.1.1.1.nupkg.sha512",
+    "D:\\NuGetPackages\\system.codedom\\9.0.4\\system.codedom.9.0.4.nupkg.sha512",
+    "D:\\NuGetPackages\\system.configuration.configurationmanager\\9.0.4\\system.configuration.configurationmanager.9.0.4.nupkg.sha512",
+    "D:\\NuGetPackages\\system.diagnostics.eventlog\\9.0.4\\system.diagnostics.eventlog.9.0.4.nupkg.sha512",
+    "D:\\NuGetPackages\\system.diagnostics.performancecounter\\9.0.4\\system.diagnostics.performancecounter.9.0.4.nupkg.sha512",
+    "D:\\NuGetPackages\\system.management\\9.0.4\\system.management.9.0.4.nupkg.sha512",
+    "D:\\NuGetPackages\\system.security.cryptography.protecteddata\\9.0.4\\system.security.cryptography.protecteddata.9.0.4.nupkg.sha512",
+    "D:\\NuGetPackages\\terminal.gui\\1.19.0\\terminal.gui.1.19.0.nupkg.sha512"
   ],
   "logs": []
 }

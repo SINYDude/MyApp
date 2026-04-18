@@ -94,11 +94,12 @@ public class QuickLaunchPanel : FrameView
             // and the launched program runs independently in its own window.
             Process.Start(new ProcessStartInfo
             {
-                FileName         = item.Command,
-                Arguments        = item.Args,
+                FileName         = Environment.ExpandEnvironmentVariables(item.Command),
+                Arguments        = string.IsNullOrWhiteSpace(item.Args) ? null
+                                   : Environment.ExpandEnvironmentVariables(item.Args),
                 UseShellExecute  = item.UseShell,
-                WorkingDirectory = string.IsNullOrWhiteSpace(item.WorkDir)
-                                   ? null : item.WorkDir,
+                WorkingDirectory = string.IsNullOrWhiteSpace(item.WorkDir) ? null
+                                   : Environment.ExpandEnvironmentVariables(item.WorkDir),
             });
         }
         catch (Exception ex)
